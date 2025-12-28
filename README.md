@@ -35,10 +35,15 @@ LangSmith (Tracing & Debugging)
 dotenv (Environment variables)
 
 📂 Project Structure
+
 Traditional_RAG/
 │
 ├── islr.pdf              # Input PDF file
 ├── main.py               # RAG pipeline code
 ├── README.md             # Project documentation
 ├── .env                  # API keys (not committed)
+
+WORKFLOW :
+
 <img width="2752" height="1536" alt="rag im" src="https://github.com/user-attachments/assets/44e01ede-ef07-4845-ae86-2faade629da3" />
+
