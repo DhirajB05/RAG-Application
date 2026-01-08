@@ -23,6 +23,9 @@ It leverages **Google Gemini**, **LangChain**, and **FAISS** to perform efficien
 * **Tracing:** LangSmith
 * **Environment Management:** dotenv
 
+Workflow:
+<img width="2752" height="1536" alt="rag im" src="https://github.com/user-attachments/assets/8d5a9c9e-c2f8-4066-b934-420cec0f4065" />
+
 ## 📂 Project Structure
 
 ```bash
@@ -32,7 +35,3 @@ Traditional_RAG/
 ├── main.py               # Main RAG pipeline script
 ├── README.md             # Project documentation
 └── .env                  # API keys configuration (Excluded from version control)
-
-WORKFLOW:
-
-<img width="2752" height="1536" alt="rag im" src="https://github.com/user-attachments/assets/44e01ede-ef07-4845-ae86-2faade629da3" />
