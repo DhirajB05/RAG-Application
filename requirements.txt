@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-google-genai
+python-dotenv
+pypdf
+faiss-cpu
+sentence-transformers

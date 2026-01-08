@@ -1,0 +1,16 @@
+# Environment
+.env
+myenv/
+venv/
+__pycache__/
+
+# Temp folders
+temp-repo/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
